@@ -16,6 +16,6 @@ spec:
     spec:
       containers:
       - name: hello-world
-        image: gcr.io/ziptie-ulta-demo/go-hello-world:master-c65f16f
+        image: gcr.io/ziptie-ulta-demo/go-hello-world:master-325f6fb
         ports:
         - containerPort: 8080
